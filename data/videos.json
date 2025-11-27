@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Big Buck Bunny (sample)",
+    "channel": "Open Demo",
+    "views": 12500,
+    "likes": 420,
+    "src": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217",
+    "description": "A sample public-domain demo video (Big Buck Bunny)."
+  },
+  {
+    "id": "2",
+    "title": "Tears of Steel (sample clip)",
+    "channel": "Open Demo",
+    "views": 8300,
+    "likes": 210,
+    "src": "https://archive.org/download/TearsOfSteelShort/TearsOfSteelShort.mp4",
+    "thumbnail": "https://mango.blender.org/wp-content/uploads/2013/05/tears.jpeg",
+    "description": "Short clip for demo purposes."
+  },
+  {
+    "id": "3",
+    "title": "Sample MP4 (1MB)",
+    "channel": "Open Demo",
+    "views": 4300,
+    "likes": 54,
+    "src": "https://sample-videos.com/video123/mp4/480/asdasdas.mp4",
+    "thumbnail": "https://via.placeholder.com/480x270.png?text=Sample",
+    "description": "Tiny sample mp4 for quick testing."
+  }
+]
