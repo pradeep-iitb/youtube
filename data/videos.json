@@ -1,32 +1,98 @@
 [
   {
     "id": "1",
-    "title": "Big Buck Bunny (sample)",
-    "channel": "Open Demo",
-    "views": 12500,
-    "likes": 420,
+    "title": "Big Buck Bunny - Official Blender Foundation Short Film",
+    "channel": "Blender Foundation",
+    "views": 2500000,
+    "likes": 45000,
+    "duration": 596,
     "src": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
     "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217",
-    "description": "A sample public-domain demo video (Big Buck Bunny)."
+    "description": "Big Buck Bunny is a 2008 computer-animated comedy short film featuring animals of the forest, made by the Blender Institute, part of the Blender Foundation. This open source 3D animated short was entirely created using the free and open source software Blender.",
+    "publishedAt": "2008-04-10"
   },
   {
-    "id": "2",
-    "title": "Tears of Steel (sample clip)",
-    "channel": "Open Demo",
-    "views": 8300,
-    "likes": 210,
+    "id": "2", 
+    "title": "Tears of Steel - Blender Foundation's Latest Open Movie",
+    "channel": "Blender Foundation",
+    "views": 1800000,
+    "likes": 32000,
+    "duration": 734,
     "src": "https://archive.org/download/TearsOfSteelShort/TearsOfSteelShort.mp4",
     "thumbnail": "https://mango.blender.org/wp-content/uploads/2013/05/tears.jpeg",
-    "description": "Short clip for demo purposes."
+    "description": "Tears of Steel is a short science fiction film by the Blender Institute. The film's premise is about a group of warriors and scientists who gather at the Oude Kerk in Amsterdam to stage a crucial event from the past in a desperate attempt to rescue the world from destructive robots.",
+    "publishedAt": "2012-09-26"
   },
   {
     "id": "3",
-    "title": "Sample MP4 (1MB)",
-    "channel": "Open Demo",
-    "views": 4300,
-    "likes": 54,
+    "title": "Sample Video for Web Development - 1MB Test File",
+    "channel": "WebDev Samples",
+    "views": 125000,
+    "likes": 2800,
+    "duration": 30,
     "src": "https://sample-videos.com/video123/mp4/480/asdasdas.mp4",
-    "thumbnail": "https://via.placeholder.com/480x270.png?text=Sample",
-    "description": "Tiny sample mp4 for quick testing."
+    "thumbnail": "https://via.placeholder.com/480x270.png?text=Sample+Video",
+    "description": "A small sample video file perfect for web development testing. This 1MB MP4 file is commonly used by developers to test video functionality in web applications.",
+    "publishedAt": "2023-01-15"
+  },
+  {
+    "id": "4",
+    "title": "Learn JavaScript in 10 Minutes - Quick Tutorial",
+    "channel": "CodeWithMike",
+    "views": 850000,
+    "likes": 18500,
+    "duration": 624,
+    "src": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "thumbnail": "https://via.placeholder.com/480x270/4285f4/ffffff?text=JavaScript+Tutorial",
+    "description": "A comprehensive JavaScript tutorial covering variables, functions, loops, and objects. Perfect for beginners looking to get started with web development.",
+    "publishedAt": "2023-08-22"
+  },
+  {
+    "id": "5",
+    "title": "Amazing Nature Documentary - 4K Wildlife",
+    "channel": "Nature Explorer",
+    "views": 3200000,
+    "likes": 95000,
+    "duration": 2840,
+    "src": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "thumbnail": "https://via.placeholder.com/480x270/2e7d32/ffffff?text=Nature+4K",
+    "description": "Experience the beauty of wildlife in stunning 4K resolution. Follow our journey through national parks as we capture incredible moments in nature.",
+    "publishedAt": "2023-11-15"
+  },
+  {
+    "id": "6",
+    "title": "React Tutorial - Building Your First App",
+    "channel": "TechTutorials",
+    "views": 425000,
+    "likes": 12200,
+    "duration": 1832,
+    "src": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "thumbnail": "https://via.placeholder.com/480x270/61dafb/000000?text=React+Tutorial",
+    "description": "Learn React from scratch! In this tutorial, we'll build a complete todo application using React hooks, components, and modern JavaScript ES6+ features.",
+    "publishedAt": "2023-09-05"
+  },
+  {
+    "id": "7",
+    "title": "Cooking with Chef Maria - Perfect Pasta Recipe",
+    "channel": "Chef Maria's Kitchen",
+    "views": 1650000,
+    "likes": 78000,
+    "duration": 945,
+    "src": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "thumbnail": "https://via.placeholder.com/480x270/ff5722/ffffff?text=Cooking+Tutorial",
+    "description": "Join Chef Maria as she demonstrates how to make the perfect pasta from scratch. Learn professional techniques for creating restaurant-quality dishes at home.",
+    "publishedAt": "2023-10-12"
+  },
+  {
+    "id": "8",
+    "title": "Guitar Lesson - Learn Your First Song in 15 Minutes",
+    "channel": "Music Academy",
+    "views": 920000,
+    "likes": 34500,
+    "duration": 892,
+    "src": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "thumbnail": "https://via.placeholder.com/480x270/795548/ffffff?text=Guitar+Lesson",
+    "description": "Complete beginner guitar lesson! Learn basic chords and play your first song. No prior experience needed - just bring your enthusiasm for music!",
+    "publishedAt": "2023-07-18"
   }
 ]
